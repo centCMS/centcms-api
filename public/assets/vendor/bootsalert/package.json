@@ -1,0 +1,28 @@
+{
+  "name": "bootsalert",
+  "version": "0.1.0",
+  "description": "Javascript alert creator library for Bootstrap Framework",
+  "main": "bootsalert.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanyn10/bootsalert.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "library",
+    "alert"
+  ],
+  "author": "Dhany Nurdiansyah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhanyn10/bootsalert/issues"
+  },
+  "homepage": "https://github.com/dhanyn10/bootsalert#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.0.0"
+  }
+}

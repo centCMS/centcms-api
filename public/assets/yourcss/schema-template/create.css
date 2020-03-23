@@ -1,0 +1,15 @@
+h2 { font-weight: 200; margin-top: 0;}
+.tagline {
+    padding: 10px;
+    font-weight: 200;
+    margin-top: -1em;
+}
+#form .add-on {
+    border: none;
+    background-color: inherit;
+}
+#submit-button {
+    position: absolute;
+    bottom: 0px;
+    left: 20px;
+}
